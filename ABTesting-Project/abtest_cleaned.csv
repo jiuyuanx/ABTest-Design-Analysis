@@ -1,0 +1,46 @@
+,ResponseId,age,gender,amazon_prime,buy_amazon_freq,expense_per_order,compare_items,browse_items,shopping_cart,Row_picked_groupA,Column_picked_groupA,Row_picked_groupB,Column_picked_groupB,treat,choose_labeled
+0,R_1PB7WCDJLZGuXn6,31-35,Male,Yes,Almost daily! I get everything from Amazon,$51-70,I will compare between prices and brands,2-5,I use both very often,0,0,2,3,True,False
+1,R_6BQ5Jhqzlj40uO3,31-35,Male,Yes,Once every week,$11-30,I will compare between prices and brands,More than 5,I only use Shopping Cart,2,5,0,0,False,False
+2,R_7guz8bOPJAK4Z81,21-25,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,1,3,True,True
+3,R_6ZJQZXgVbqwayQ4,21-25,Female,No,"Rarely, only when I can't find the product everywhere else",$11-30,First item that comes to eyes,1,I only use Shopping Cart,5,5,0,0,False,False
+4,R_333OtM6UQGoqkkb,21-25,Male,Yes,"Occasionally, depends on mood",$11-30,I always go to the brands I know personally,1,I only use Shopping Cart,0,0,1,2,True,True
+5,R_1HHP0bNRVFI4sjT,21-25,Female,Yes,Once every week,$11-30,I always go to the brands I know personally,1,I use both very often,2,5,0,0,False,False
+6,R_5Qh4BiKFfOqEADv,21-25,Female,Yes,Once every week,Above $70,I will pick whatever Amazon picks for me ,1,I only use Shopping Cart,1,5,0,0,False,False
+7,R_6rj5MjNFS9EP2AH,21-25,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,1,4,True,True
+8,R_6BnYmaSiNKoGvXb,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,More than 5,I only use Shopping Cart,0,0,1,3,True,True
+9,R_7cUMkw04OacMEZf,21-25,Male,Yes,Once every week,$11-30,I will compare between prices and brands,More than 5,I only use Shopping Cart,3,1,0,0,False,False
+10,R_5QM9SCFMyzBR8zv,21-25,Female,Yes,Once every week,$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,3,1,True,False
+11,R_7sjl7OIBjJo2ZXr,21-25,Female,Yes,Once every week,$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,2,2,0,0,False,True
+12,R_3HpoY5RlUfKx8UE,21-25,Female,Yes,Once every week,$31-50,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,1,4,True,True
+13,R_6F27E8X57YBY3Nt,26-30,Female,No,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,1,5,0,0,False,False
+14,R_7D69oueSkASWBgD,21-25,Female,Yes,Once every week,$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,1,1,True,True
+15,R_6Uben35zwS6cgGk,Under 20,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,2,3,0,0,False,True
+16,R_3qggysR9qmJli97,Under 20,Female,Yes,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,1,4,0,0,False,False
+17,R_1ODcg5XPiZJRiZd,21-25,Male,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,More than 5,I only use Shopping Cart,0,0,1,4,True,True
+18,R_7dXuTOPfMBT5u6a,21-25,Male,Yes,Almost daily! I get everything from Amazon,$11-30,I will compare between prices and brands,2-5,I always Buy Now,2,2,0,0,False,True
+19,R_5SrxDhM4OrR1trr,21-25,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I always Buy Now,0,0,2,2,True,False
+20,R_7fBirIloQf7OmBa,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,2,3,0,0,False,True
+21,R_7zV1t9qISbIKru7,26-30,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,3,2,True,False
+22,R_1hApo5lqlFG6v2P,21-25,Male,Yes,"Rarely, only when I can't find the product everywhere else",Under $10,"The cheapest one only, I only care about the price",2-5,I only use Shopping Cart,1,1,0,0,False,True
+23,R_6NyLJldIRbiSz1t,21-25,Male,Yes,Once every week,$11-30,I will pick whatever Amazon picks for me ,2-5,I only use Shopping Cart,0,0,2,3,True,False
+24,R_3GfH9evpna22F1I,21-25,Female,Yes,Once every week,$11-30,I always go to the brands I know personally,1,I only use Shopping Cart,3,1,0,0,False,False
+25,R_7dE5H3NJt8F54um,21-25,Female,Yes,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I use both very often,0,0,1,1,True,True
+26,R_7ype5rAppcJyeG5,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I use both very often,0,0,2,3,True,False
+27,R_3fp5Wg54q684z3I,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,"The cheapest one only, I only care about the price",2-5,I use both very often,2,5,0,0,False,False
+28,R_6luAJX6U1F3NO96,26-30,Female,Yes,"Occasionally, depends on mood",Under $10,I always go to the brands I know personally,2-5,I only use Shopping Cart,0,0,1,2,True,True
+29,R_3WVlWyOMHiiVUgb,21-25,Female,Yes,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,2-5,I use both very often,0,2,0,0,False,False
+30,R_5hMyjjSz4Xy9CBR,21-25,Male,Maybe,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,More than 5,I only use Shopping Cart,0,0,3,4,True,False
+31,R_76pUCxg6B8xrZgR,21-25,Female,No,"Occasionally, depends on mood",$11-30,I will compare between prices and brands,2-5,I only use Shopping Cart,2,3,0,0,False,True
+32,R_1MxHkxnVf9r3EK5,21-25,Female,Yes,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,1,2,0,0,False,True
+33,R_1HqwOazwB9ruIP3,26-30,Male,No,"Occasionally, depends on mood",Under $10,First item that comes to eyes,2-5,I only use Shopping Cart,0,0,1,4,True,True
+34,R_70tJBjqJHNrImjv,31-35,Female,Yes,Almost daily! I get everything from Amazon,$51-70,I always go to the brands I know personally,2-5,I use both very often,2,5,0,0,False,False
+35,R_5m3NmHXymdOLY7m,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,2,2,0,0,False,True
+36,R_3TMgEDnkMfEECf0,21-25,Female,No,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,0,0,1,1,True,True
+37,R_3Pxk9ev6nD3qlNf,21-25,Female,No,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,2,2,0,0,False,True
+38,R_1hGbW8BdmIaqk3E,21-25,Female,Yes,Almost daily! I get everything from Amazon,$51-70,I will pick whatever Amazon picks for me ,2-5,I always Buy Now,0,0,1,3,True,True
+39,R_3CvljLfVb09eK0v,21-25,Male,Yes,"Rarely, only when I can't find the product everywhere else",Under $10,I will compare between prices and brands,More than 5,I only use Shopping Cart,0,0,1,3,True,True
+40,R_1E6XLshDTi2petB,26-30,Male,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,More than 5,I only use Shopping Cart,2,1,0,0,False,True
+41,R_6qKwqQOVYfWYTU8,26-30,Male,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I use both very often,2,1,0,0,False,True
+42,R_3wcXdhiHqHWCbJl,26-30,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I use both very often,0,0,1,3,True,True
+43,R_15Rfx4cjHI09VCz,26-30,Female,Yes,"Occasionally, depends on mood",Under $10,I will compare between prices and brands,2-5,I only use Shopping Cart,3,0,0,0,False,False
+44,R_6jreIb7fVrYDzHn,21-25,Female,Yes,"Occasionally, depends on mood",Under $10,"The cheapest one only, I only care about the price",2-5,I only use Shopping Cart,0,0,1,4,True,True
